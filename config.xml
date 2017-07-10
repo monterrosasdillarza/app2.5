@@ -40,6 +40,6 @@ Aplicacion que muestra la clasificacion de animales
 <plugin name="cordova-plugin-whitelist" sourse="npm"/>
 <!--colocar icono app-->
 
-<icon src="git\app2.5\res\android\mdpi.jpg>
+<icon src="git/app2.5/res/android/mdpi.jpg/>
 
 </widget>
